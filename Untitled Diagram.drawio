@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p5Rtfu-O9J4iYWWrtATP-3" value="On Prem" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="56" y="34" width="186" height="319" as="geometry" />
+          <mxGeometry x="56" y="32" width="186" height="319" as="geometry" />
         </mxCell>
         <mxCell id="HVJbjALm6hgedPGyuP-F-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;fillColor=#DA4026;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="p5Rtfu-O9J4iYWWrtATP-3" vertex="1">
           <mxGeometry x="66.5" y="75.00000000000001" width="57" height="49.75" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="76" y="126" width="36.25" height="17" as="geometry" />
         </mxCell>
         <mxCell id="p5Rtfu-O9J4iYWWrtATP-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" vertex="1" parent="p5Rtfu-O9J4iYWWrtATP-4">
-          <mxGeometry x="60" y="92.87" width="18" height="18" as="geometry" />
+          <mxGeometry x="60" y="90.87" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="p5Rtfu-O9J4iYWWrtATP-52" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="p5Rtfu-O9J4iYWWrtATP-4">
           <mxGeometry x="3" y="25" width="20.46" height="33" as="geometry" />
