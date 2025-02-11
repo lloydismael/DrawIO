@@ -232,6 +232,21 @@
         <mxCell id="L_sbSJyyQoJaivkCK3wi-16" value="ConfigMap" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
           <mxGeometry x="128" y="187" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L_sbSJyyQoJaivkCK3wi-17" value="Secret" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
+          <mxGeometry x="128" y="254" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_sbSJyyQoJaivkCK3wi-18" value="Volume" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
+          <mxGeometry x="128" y="321" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_sbSJyyQoJaivkCK3wi-19" value="Deployment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
+          <mxGeometry x="128" y="388" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_sbSJyyQoJaivkCK3wi-20" value="StatefulSet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
+          <mxGeometry x="128" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L_sbSJyyQoJaivkCK3wi-21" value="Ingress" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
+          <mxGeometry x="128" y="523" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="L_sbSJyyQoJaivkCK3wi-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="360" y="1683" width="64.58" height="62" as="geometry" />
         </mxCell>
