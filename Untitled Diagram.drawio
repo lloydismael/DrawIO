@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="Page-1" id="iF6NioC-ejS35JDFOjd9">
-    <mxGraphModel dx="1040" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L_sbSJyyQoJaivkCK3wi-1" value="Kubernetes Components" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2" y="1745" width="857" height="593" as="geometry" />
+          <mxGeometry x="-30" y="1743" width="857" height="593" as="geometry" />
         </mxCell>
         <mxCell id="L_sbSJyyQoJaivkCK3wi-39" value="&lt;ul style=&quot;margin: calc(var(--ds-md-zoom)*12px)0; padding-left: calc(var(--ds-md-zoom)*24px); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-left: 0px; line-height: var(--ds-md-line-height); margin-bottom: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Manages stateless applications by defining the desired state for Pods and ReplicaSets.&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 4px;&quot;&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-left: 0px; line-height: var(--ds-md-line-height); margin-bottom: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Supports rolling updates, rollbacks, and scaling.&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 4px;&quot;&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-left: 0px; line-height: var(--ds-md-line-height); margin-bottom: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Ensures a specified number of Pod replicas are running at all times.&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="L_sbSJyyQoJaivkCK3wi-1">
           <mxGeometry x="188" y="373" width="564" height="60" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry x="224" y="441.5" width="538.5" height="57" as="geometry" />
         </mxCell>
         <mxCell id="L_sbSJyyQoJaivkCK3wi-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1683" width="64.58" height="62" as="geometry" />
+          <mxGeometry x="366.21" y="1672" width="64.58" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
