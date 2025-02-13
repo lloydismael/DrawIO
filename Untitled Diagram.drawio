@@ -275,7 +275,7 @@
           <mxGeometry x="366.21" y="1672" width="64.58" height="62" as="geometry" />
         </mxCell>
         <mxCell id="L_sbSJyyQoJaivkCK3wi-51" value="Master Processes" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="449" y="2367.5" width="378" height="320" as="geometry" />
+          <mxGeometry x="449" y="2364.5" width="378" height="320" as="geometry" />
         </mxCell>
         <mxCell id="L_sbSJyyQoJaivkCK3wi-55" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="L_sbSJyyQoJaivkCK3wi-51" vertex="1">
           <mxGeometry x="28" y="53" width="50" height="48" as="geometry" />
