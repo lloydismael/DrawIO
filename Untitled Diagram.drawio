@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="iF6NioC-ejS35JDFOjd9">
     <mxGraphModel dx="2335" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313.11" y="7437" width="273" height="277" as="geometry" />
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="234" y="7437" width="448" height="319" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="3706" width="231" height="121" as="geometry" />
@@ -483,48 +483,52 @@
         <mxCell id="whD9whGcHAKGSQgbPbLZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.681;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="whD9whGcHAKGSQgbPbLZ-8" target="whD9whGcHAKGSQgbPbLZ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="412.99" y="7479" width="80" height="80" as="geometry" />
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="414" y="7472" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="451.99" y="7559" as="targetPoint" />
-            <mxPoint x="492.99" y="7640.3" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eRT1neZ4oO5v7vv5GDlQ-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407.99" y="7640.2" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-9" value="Fortigate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-9" value="Fortigate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="7437" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-10" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
-          <mxGeometry x="355.99" y="7619.72" width="50" height="37" as="geometry" />
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-10" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" parent="1" vertex="1">
+          <mxGeometry x="274" y="7702" width="50" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-11" value="Devices" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Enrollment.svg;" vertex="1" parent="1">
-          <mxGeometry x="504.49" y="7616.22" width="49.53" height="44" as="geometry" />
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-11" value="Devices" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Enrollment.svg;" parent="1" vertex="1">
+          <mxGeometry x="597" y="7658" width="49.53" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-14" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-14" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="191" y="6942" width="55" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-16" target="eRT1neZ4oO5v7vv5GDlQ-6">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-16" target="eRT1neZ4oO5v7vv5GDlQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" parent="1" vertex="1">
           <mxGeometry x="306.21" y="7172" width="286.79" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-19" value="Intune" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" vertex="1" parent="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-19" value="Intune" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" parent="1" vertex="1">
           <mxGeometry x="481.72" y="7252" width="51.55" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-15" value="Exchange" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_exchange_online;" vertex="1" parent="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-15" value="Exchange" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_exchange_online;" parent="1" vertex="1">
           <mxGeometry x="348" y="7247" width="100" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png;" vertex="1" parent="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png;" parent="1" vertex="1">
           <mxGeometry x="370.1" y="7110" width="159" height="89.44" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-6" target="eRT1neZ4oO5v7vv5GDlQ-16">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-6" target="eRT1neZ4oO5v7vv5GDlQ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_d3y0yWLf5BpcR6hKHMb-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;" vertex="1" parent="1">
+          <mxGeometry x="447" y="7183" width="68" height="60.440000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="_d3y0yWLf5BpcR6hKHMb-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="63" y="7275" width="64" height="114.29" as="geometry" />
+        </mxCell>
+        <mxCell id="_d3y0yWLf5BpcR6hKHMb-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="79" y="7341" width="61.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="_d3y0yWLf5BpcR6hKHMb-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" vertex="1" parent="1">
+          <mxGeometry x="435.5" y="7590" width="63" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_d3y0yWLf5BpcR6hKHMb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-10" target="eRT1neZ4oO5v7vv5GDlQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
