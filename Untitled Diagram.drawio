@@ -492,9 +492,6 @@
         <mxCell id="eRT1neZ4oO5v7vv5GDlQ-11" value="Devices" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Enrollment.svg;" parent="1" vertex="1">
           <mxGeometry x="342" y="7676" width="49.53" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-14" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="59" y="7196" width="55" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="eRT1neZ4oO5v7vv5GDlQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-16" target="eRT1neZ4oO5v7vv5GDlQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -515,12 +512,6 @@
         </mxCell>
         <mxCell id="_d3y0yWLf5BpcR6hKHMb-2" value="Active Directory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Entra_Identity.svg;" parent="1" vertex="1">
           <mxGeometry x="444" y="7165" width="68" height="60.440000000000005" as="geometry" />
-        </mxCell>
-        <mxCell id="_d3y0yWLf5BpcR6hKHMb-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="63" y="7275" width="64" height="114.29" as="geometry" />
-        </mxCell>
-        <mxCell id="_d3y0yWLf5BpcR6hKHMb-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" parent="1" vertex="1">
-          <mxGeometry x="79" y="7341" width="61.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_d3y0yWLf5BpcR6hKHMb-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" parent="1" vertex="1">
           <mxGeometry x="418.11" y="7577" width="63" height="87.5" as="geometry" />
