@@ -504,7 +504,7 @@
         <mxCell id="eRT1neZ4oO5v7vv5GDlQ-19" value="Intune" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" parent="1" vertex="1">
           <mxGeometry x="481.72" y="7252" width="51.55" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-15" value="Exchange" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_exchange_online;" parent="1" vertex="1">
+        <mxCell id="eRT1neZ4oO5v7vv5GDlQ-15" value="Exchange Online" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_exchange_online;" parent="1" vertex="1">
           <mxGeometry x="348" y="7247" width="100" height="52" as="geometry" />
         </mxCell>
         <mxCell id="eRT1neZ4oO5v7vv5GDlQ-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png;" parent="1" vertex="1">
@@ -523,7 +523,7 @@
           <mxGeometry x="79" y="7341" width="61.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_d3y0yWLf5BpcR6hKHMb-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.domain_controller" parent="1" vertex="1">
-          <mxGeometry x="423.5" y="7595" width="63" height="87.5" as="geometry" />
+          <mxGeometry x="418.11" y="7577" width="63" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="_d3y0yWLf5BpcR6hKHMb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eRT1neZ4oO5v7vv5GDlQ-10" target="eRT1neZ4oO5v7vv5GDlQ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
