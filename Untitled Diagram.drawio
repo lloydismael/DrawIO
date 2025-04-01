@@ -413,12 +413,6 @@
         <mxCell id="whD9whGcHAKGSQgbPbLZ-3" value="Office 365" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="3648" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="whD9whGcHAKGSQgbPbLZ-5" value="Source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="186" y="6702" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="whD9whGcHAKGSQgbPbLZ-7" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="594" y="6702" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-8" value="On-Premise" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="6380" width="325" height="331" as="geometry" />
         </mxCell>
@@ -440,8 +434,11 @@
         <mxCell id="vPAkgLsvh0ypCATNIzpZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="whD9whGcHAKGSQgbPbLZ-8" source="whD9whGcHAKGSQgbPbLZ-11" target="whD9whGcHAKGSQgbPbLZ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="whD9whGcHAKGSQgbPbLZ-5" value="Source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="whD9whGcHAKGSQgbPbLZ-8" vertex="1">
+          <mxGeometry x="132.51" y="31" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-9" value="Microsoft Cloud" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="467" y="6377" width="325" height="325" as="geometry" />
+          <mxGeometry x="469" y="6380" width="329" height="330" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-28" value="Intune" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" parent="whD9whGcHAKGSQgbPbLZ-9" vertex="1">
           <mxGeometry x="136.73000000000005" y="139" width="51.55" height="47" as="geometry" />
@@ -454,6 +451,9 @@
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-46" value="Users" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" parent="whD9whGcHAKGSQgbPbLZ-9" vertex="1">
           <mxGeometry x="70" y="236.3" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="whD9whGcHAKGSQgbPbLZ-7" value="Target" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="whD9whGcHAKGSQgbPbLZ-9" vertex="1">
+          <mxGeometry x="134.49999999999997" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" parent="1" vertex="1">
           <mxGeometry x="2" y="3570" width="51.55" height="47" as="geometry" />
