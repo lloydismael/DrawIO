@@ -564,9 +564,6 @@
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hv1g27O1lEZ3BrtbdWXi-5" target="Hv1g27O1lEZ3BrtbdWXi-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#008000;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-16px/16/circle-plus-128.png" vertex="1" parent="1">
-          <mxGeometry x="630" y="7919.5" width="74" height="74" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
