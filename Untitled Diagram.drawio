@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.5">
   <diagram name="Page-1" id="iF6NioC-ejS35JDFOjd9">
-    <mxGraphModel dx="2255" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2322" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -533,6 +533,27 @@
               <mxPoint x="450.75" y="7387" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1.4210854715202004e-14" y="7804" width="321" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="167" y="7925.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="1">
+          <mxGeometry x="43.999999999999986" y="7821.5" width="83" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="64.99999999999999" y="7925.5" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-3" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="46.999999999999986" y="8032.5" width="80" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="522" y="7801" width="321" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="348" y="7925.5" width="139.68" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
