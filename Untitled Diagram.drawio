@@ -556,7 +556,7 @@
           <mxGeometry x="356.89" y="7850" width="111.94" height="69.4" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="543" y="7929.5" width="70" height="64" as="geometry" />
+          <mxGeometry x="543" y="7912" width="70" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Remote Users&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="106" y="7759" width="100.65" height="32" as="geometry" />
@@ -564,8 +564,8 @@
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hv1g27O1lEZ3BrtbdWXi-5" target="Hv1g27O1lEZ3BrtbdWXi-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hv1g27O1lEZ3BrtbdWXi-9" target="Hv1g27O1lEZ3BrtbdWXi-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Hv1g27O1lEZ3BrtbdWXi-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#008000;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-16px/16/circle-plus-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="7919.5" width="74" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
