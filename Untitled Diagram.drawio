@@ -538,7 +538,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-9" value="Internet" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet" vertex="1" parent="1">
-          <mxGeometry x="348.89000000000004" y="7907.6" width="111.94" height="69.4" as="geometry" />
+          <mxGeometry x="345.92" y="7908.55" width="111.94" height="69.4" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hv1g27O1lEZ3BrtbdWXi-11" target="Hv1g27O1lEZ3BrtbdWXi-26">
           <mxGeometry relative="1" as="geometry">
@@ -549,7 +549,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-11" value="Active Directory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
-          <mxGeometry x="549" y="7909.3" width="70" height="64" as="geometry" />
+          <mxGeometry x="549" y="7911.3" width="70" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hv1g27O1lEZ3BrtbdWXi-5" target="Hv1g27O1lEZ3BrtbdWXi-9">
           <mxGeometry relative="1" as="geometry" />
