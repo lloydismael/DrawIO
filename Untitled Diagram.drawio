@@ -649,12 +649,6 @@
         <mxCell id="Odxy1tgMrzMNhfUEE5YE-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" vertex="1" parent="Odxy1tgMrzMNhfUEE5YE-8">
           <mxGeometry x="154.5" y="148" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Odxy1tgMrzMNhfUEE5YE-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
-          <mxGeometry x="498" y="552" width="41.88" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="Odxy1tgMrzMNhfUEE5YE-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="554" width="68" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="Odxy1tgMrzMNhfUEE5YE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Odxy1tgMrzMNhfUEE5YE-4" target="Odxy1tgMrzMNhfUEE5YE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
