@@ -649,6 +649,17 @@
         <mxCell id="Odxy1tgMrzMNhfUEE5YE-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" vertex="1" parent="Odxy1tgMrzMNhfUEE5YE-8">
           <mxGeometry x="154.5" y="148" width="25" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="Odxy1tgMrzMNhfUEE5YE-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.892;exitY=0.459;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Odxy1tgMrzMNhfUEE5YE-8" source="Odxy1tgMrzMNhfUEE5YE-25" target="Odxy1tgMrzMNhfUEE5YE-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="168" y="298" as="sourcePoint" />
+            <mxPoint x="218" y="248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Odxy1tgMrzMNhfUEE5YE-31" value="Peering&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Odxy1tgMrzMNhfUEE5YE-30">
+          <mxGeometry x="-0.057" relative="1" as="geometry">
+            <mxPoint x="2" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Odxy1tgMrzMNhfUEE5YE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Odxy1tgMrzMNhfUEE5YE-4" target="Odxy1tgMrzMNhfUEE5YE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
