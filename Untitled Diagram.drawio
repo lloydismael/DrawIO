@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3" pages="3">
   <diagram name="Page-1" id="iF6NioC-ejS35JDFOjd9">
-    <mxGraphModel dx="3206" dy="1110" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="306.71" y="3177" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="p5Rtfu-O9J4iYWWrtATP-3" value="On Prem" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="56" y="32" width="186" height="319" as="geometry" />
+          <mxGeometry x="60" y="32" width="186" height="319" as="geometry" />
         </mxCell>
         <mxCell id="HVJbjALm6hgedPGyuP-F-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;fillColor=#DA4026;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="p5Rtfu-O9J4iYWWrtATP-3" vertex="1">
           <mxGeometry x="64" y="75.00000000000001" width="57" height="49.75" as="geometry" />
