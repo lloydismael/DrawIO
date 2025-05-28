@@ -775,7 +775,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="opKX5ig87G1OyxuHu9Tu" name="Page-5">
-    <mxGraphModel dx="1389" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -841,14 +841,11 @@
         <mxCell id="d5g64LMSj9qls37vdisw-21" value="*Storage Account" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
           <mxGeometry x="674.5" y="249.99999999999997" width="64.5" height="54.18" as="geometry" />
         </mxCell>
-        <mxCell id="d5g64LMSj9qls37vdisw-22" value="*Active Directory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+        <mxCell id="d5g64LMSj9qls37vdisw-22" value="*Active Directory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;opacity=30;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
           <mxGeometry x="770" y="140" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="d5g64LMSj9qls37vdisw-23" value="*SAP" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+        <mxCell id="d5g64LMSj9qls37vdisw-23" value="*SAP" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;shadow=0;opacity=30;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
           <mxGeometry x="670" y="140" width="69" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="d5g64LMSj9qls37vdisw-24" value="*Azure Backup" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Backup_Vault.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
-          <mxGeometry x="771" y="250" width="68" height="57.96" as="geometry" />
         </mxCell>
         <mxCell id="d5g64LMSj9qls37vdisw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="d5g64LMSj9qls37vdisw-1" source="d5g64LMSj9qls37vdisw-13" target="d5g64LMSj9qls37vdisw-12">
           <mxGeometry relative="1" as="geometry">
