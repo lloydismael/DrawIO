@@ -775,10 +775,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="opKX5ig87G1OyxuHu9Tu" name="Page-5">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d5g64LMSj9qls37vdisw-1" value="Azure" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="530" width="560" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+          <mxGeometry x="30" y="50" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+          <mxGeometry x="120" y="140" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Backup_Vault.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+          <mxGeometry x="120" y="242" width="68" height="57.96" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+          <mxGeometry x="306" y="170" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-1">
+          <mxGeometry x="430" y="190" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="280" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
