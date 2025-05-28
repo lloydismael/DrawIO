@@ -775,7 +775,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="opKX5ig87G1OyxuHu9Tu" name="Page-5">
-    <mxGraphModel dx="1765" dy="701" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -884,6 +884,21 @@
         </mxCell>
         <mxCell id="d5g64LMSj9qls37vdisw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d5g64LMSj9qls37vdisw-30" target="d5g64LMSj9qls37vdisw-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-36" value="Azure (NTT Data)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1323" y="1049" width="300" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-38" value="NAV 2016&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-36">
+          <mxGeometry x="68" y="62.5" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-39" value="ERP" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-36">
+          <mxGeometry x="185" y="62.5" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-40" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="d5g64LMSj9qls37vdisw-36">
+          <mxGeometry x="15" y="29" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d5g64LMSj9qls37vdisw-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
+          <mxGeometry x="1436" y="999" width="75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
