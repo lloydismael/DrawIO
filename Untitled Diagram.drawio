@@ -728,14 +728,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xjShc6Fe6oU4PDX-lq8f" name="POS">
-    <mxGraphModel dx="1240" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9maTj3f5Y2XyTr4v7vFd-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="724" y="248" width="154" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="9maTj3f5Y2XyTr4v7vFd-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#82b366;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="9maTj3f5Y2XyTr4v7vFd-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="912" y="248" width="154" height="154" as="geometry" />
         </mxCell>
         <mxCell id="IGpRF7JHlze_E3zdS0Q8-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="1" vertex="1">
@@ -765,9 +765,6 @@
         <mxCell id="9maTj3f5Y2XyTr4v7vFd-8" value="Power BI Pro" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" parent="1" vertex="1">
           <mxGeometry x="963.5" y="291" width="51" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="9maTj3f5Y2XyTr4v7vFd-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://learn.microsoft.com/fr-fr/fabric/media/fabric-icon.png;" parent="1" vertex="1">
-          <mxGeometry x="1033.5" y="372" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9maTj3f5Y2XyTr4v7vFd-11" value="Data Visualization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="959" y="405" width="60" height="30" as="geometry" />
         </mxCell>
@@ -796,7 +793,7 @@
           <mxGeometry x="130.00222222222214" y="1527.9966666666664" width="1243" height="628" as="geometry" />
         </mxCell>
         <mxCell id="sn_nc29L41FxyBQNAlQ6-1" value="POS" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/POS.svg;" vertex="1" parent="1">
-          <mxGeometry x="268" y="552.34" width="67.8" height="72" as="geometry" />
+          <mxGeometry x="269.94" y="635" width="67.8" height="72" as="geometry" />
         </mxCell>
         <mxCell id="sn_nc29L41FxyBQNAlQ6-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
           <mxGeometry x="951" y="684" width="68" height="68" as="geometry" />
@@ -859,6 +856,12 @@
               <mxPoint x="803" y="548" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T-LHrhRmLpkl6Z5DYB1L-1" value="Option 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="561" y="77" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="T-LHrhRmLpkl6Z5DYB1L-2" value="Option 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1551" y="109" width="63" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
