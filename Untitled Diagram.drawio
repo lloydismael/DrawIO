@@ -962,6 +962,9 @@
         <mxCell id="TheX1H3b0-fl29XGy7IU-10" value="Azure Data Factory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
           <mxGeometry x="1865" y="1020" width="52" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-13" value="Azure SQL" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1865" y="1143" width="55" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
