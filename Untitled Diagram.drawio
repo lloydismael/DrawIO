@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xjShc6Fe6oU4PDX-lq8f" name="POS">
-    <mxGraphModel dx="1226" dy="701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="2384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -860,7 +860,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LHrhRmLpkl6Z5DYB1L-1" value="Option 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="T-LHrhRmLpkl6Z5DYB1L-1" value="Option 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1805" y="80" width="63" height="26" as="geometry" />
         </mxCell>
         <mxCell id="T-LHrhRmLpkl6Z5DYB1L-2" value="Option 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -870,7 +870,7 @@
           <mxGeometry x="1029.0600000000002" y="367.1" width="36.94" height="33.9" as="geometry" />
         </mxCell>
         <mxCell id="T-LHrhRmLpkl6Z5DYB1L-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data Source&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1345" y="150" width="101" height="30" as="geometry" />
+          <mxGeometry x="1336" y="144" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T-LHrhRmLpkl6Z5DYB1L-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1445.9999999999998" y="229" width="70" height="239" as="geometry" />
@@ -931,6 +931,33 @@
         </mxCell>
         <mxCell id="T-LHrhRmLpkl6Z5DYB1L-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-LHrhRmLpkl6Z5DYB1L-17" target="T-LHrhRmLpkl6Z5DYB1L-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1507.18" y="1037" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-3" value="POS" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/POS.svg;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="1034" width="53.68" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1507.18" y="923" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-5" value="POS" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/POS.svg;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="920" width="53.68" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1507.18" y="1157" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-7" value="POS" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/POS.svg;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="1154" width="53.68" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="934.5" width="70" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.http_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1594" y="1023" width="43" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TheX1H3b0-fl29XGy7IU-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" vertex="1" parent="1">
+          <mxGeometry x="1726" y="1033" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
