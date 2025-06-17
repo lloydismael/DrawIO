@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="6">
   <diagram name="MIGRATION" id="iF6NioC-ejS35JDFOjd9">
     <mxGraphModel dx="2834" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xjShc6Fe6oU4PDX-lq8f" name="POS">
-    <mxGraphModel dx="1514" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1113,6 +1113,82 @@
             <Array as="points">
               <mxPoint x="2027" y="962" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FNL2Swz4YKIhjVBJ3MEw" name="ASR">
+    <mxGraphModel dx="1678" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oz_rd_irdrrjbzaxExEN-4" value="Onpremise" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="39" y="217" width="519.0017647058824" height="577.0047058823529" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="109.13" y="138.13" width="300.75" height="300.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.mrp_erp;whiteSpace=wrap;verticalAlign=bottom;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="216" y="157" width="81" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.clarity-ventures.com/images/logos/logo-syspro.png;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="229.72" y="188.25" width="59.57" height="56.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-6" value="Syspro ERP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="218" y="262" width="83" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-9" value="Fortinet" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="438" y="252.5" width="58" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-7" value="VM" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="66" y="117" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-17" value="Azure Backup" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://symbols.getvecta.com/stencil_27/17_backup.cffdb0740a.png;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-4">
+          <mxGeometry x="218.5" y="305" width="82.5" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="539" y="481" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-12" value="Azure" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="819" y="219" width="516" height="573" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="36" y="70" width="452" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="70.5" y="111" width="383" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-11" value="Azure Recovery Vault" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Backup.svg;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="148" y="242" width="83.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-19" value="Resource Group" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="70.5" y="94" width="52.07" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-20" value="Subscription" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="12" y="45" width="40.9" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-21" value="Azure LRS Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="288" y="252" width="65" height="62.38" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-25" value="Azure Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="oz_rd_irdrrjbzaxExEN-12">
+          <mxGeometry x="226" y="365" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Exchange_On_premises_Access.svg;" vertex="1" parent="1">
+          <mxGeometry x="269.68" y="113" width="57.64" height="99.38" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/microsoft-azure-icon-2048x1258-uc8ywy89.png;" vertex="1" parent="1">
+          <mxGeometry x="998.03" y="120" width="157.94" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="789" y="485" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.116;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="oz_rd_irdrrjbzaxExEN-10" target="oz_rd_irdrrjbzaxExEN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oz_rd_irdrrjbzaxExEN-30" value="TCP/443" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oz_rd_irdrrjbzaxExEN-26">
+          <mxGeometry x="-0.0015" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
