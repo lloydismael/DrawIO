@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.4" pages="6">
   <diagram name="MIGRATION" id="iF6NioC-ejS35JDFOjd9">
-    <mxGraphModel dx="2834" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3010" dy="911" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,21 +526,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-9" value="Internet" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet" parent="1" vertex="1">
-          <mxGeometry x="345.92" y="7908.55" width="111.94" height="69.4" as="geometry" />
+          <mxGeometry x="1703.53" y="5944.55" width="111.94" height="69.4" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hv1g27O1lEZ3BrtbdWXi-11" target="Hv1g27O1lEZ3BrtbdWXi-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="637" y="7941" />
-              <mxPoint x="637" y="7859" />
+              <mxPoint x="1994.6100000000001" y="5977" />
+              <mxPoint x="1994.6100000000001" y="5895" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-11" value="Active Directory" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" parent="1" vertex="1">
-          <mxGeometry x="549" y="7911.3" width="70" height="64" as="geometry" />
+          <mxGeometry x="1906.6100000000001" y="5947.3" width="70" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-30" value="Remote Users" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="20.39" y="7776" width="290.19" height="325" as="geometry" />
+          <mxGeometry x="1378" y="5812" width="290.19" height="325" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-1" value="Laptop" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" parent="Hv1g27O1lEZ3BrtbdWXi-30" vertex="1">
           <mxGeometry x="31" y="55" width="58" height="50" as="geometry" />
@@ -561,7 +561,7 @@
           <mxGeometry x="230" y="146" width="44.61" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-33" value="On-Premise" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="517" y="7779.3" width="290.19" height="324" as="geometry" />
+          <mxGeometry x="1874.6100000000001" y="5815.3" width="290.19" height="324" as="geometry" />
         </mxCell>
         <mxCell id="Hv1g27O1lEZ3BrtbdWXi-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Hv1g27O1lEZ3BrtbdWXi-33" source="Hv1g27O1lEZ3BrtbdWXi-28" target="Hv1g27O1lEZ3BrtbdWXi-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -580,6 +580,12 @@
         </mxCell>
         <mxCell id="Udw22zqoOuobZsv6Q_yr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Udw22zqoOuobZsv6Q_yr-1" target="Hv1g27O1lEZ3BrtbdWXi-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90rSZobpW0E9GoHpiXHF-1" value="On Premise" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1563" y="6185" width="402" height="409" as="geometry" />
+        </mxCell>
+        <mxCell id="90rSZobpW0E9GoHpiXHF-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="90rSZobpW0E9GoHpiXHF-1">
+          <mxGeometry x="272" y="221" width="41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
