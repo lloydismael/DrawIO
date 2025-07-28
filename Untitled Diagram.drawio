@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.4" pages="6">
   <diagram name="MIGRATION" id="iF6NioC-ejS35JDFOjd9">
-    <mxGraphModel dx="2745" dy="911" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2444" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,7 +627,7 @@
           <mxGeometry x="22" y="209" width="58" height="34" as="geometry" />
         </mxCell>
         <mxCell id="90rSZobpW0E9GoHpiXHF-17" value="On-Premise" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1651" y="6766" width="506" height="302" as="geometry" />
+          <mxGeometry x="1743" y="6766" width="506" height="302" as="geometry" />
         </mxCell>
         <mxCell id="90rSZobpW0E9GoHpiXHF-19" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="90rSZobpW0E9GoHpiXHF-17">
           <mxGeometry x="27" y="44" width="458" height="242.59" as="geometry" />
@@ -663,6 +663,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="90rSZobpW0E9GoHpiXHF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.022;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="90rSZobpW0E9GoHpiXHF-17" source="90rSZobpW0E9GoHpiXHF-23" target="90rSZobpW0E9GoHpiXHF-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90rSZobpW0E9GoHpiXHF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="90rSZobpW0E9GoHpiXHF-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760.5555555555557" y="6916.500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90rSZobpW0E9GoHpiXHF-44" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="6891.93" width="78" height="49.14" as="geometry" />
+        </mxCell>
+        <mxCell id="90rSZobpW0E9GoHpiXHF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="90rSZobpW0E9GoHpiXHF-9" target="90rSZobpW0E9GoHpiXHF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
