@@ -1424,13 +1424,13 @@
           <mxGeometry x="480" y="420" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_Domain_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="80.91" y="324.71" width="40.29" height="40.29" as="geometry" />
+          <mxGeometry x="200" y="299.84999999999997" width="60.29" height="60.29" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" parent="1" vertex="1">
-          <mxGeometry y="325" width="40.91" height="39.71" as="geometry" />
+          <mxGeometry x="40" y="299.85" width="51.66" height="50.15" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="170" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="369.44" y="165" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="150" width="250" height="80" as="geometry" />
@@ -1439,7 +1439,7 @@
           <mxGeometry x="500" y="169.5" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/AI_Studio.svg;" parent="1" vertex="1">
-          <mxGeometry x="362.38" y="300" width="47.06" height="50" as="geometry" />
+          <mxGeometry x="369.44" y="305" width="47.06" height="50" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="290" width="250" height="70" as="geometry" />
@@ -1447,8 +1447,8 @@
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" parent="1" vertex="1">
           <mxGeometry x="500" y="305" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EipcDict-16wzUtFNGiT-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png;" parent="1" vertex="1">
-          <mxGeometry x="380" y="449.06" width="55" height="30.94" as="geometry" />
+        <mxCell id="EipcDict-16wzUtFNGiT-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png;" parent="1" vertex="1">
+          <mxGeometry x="350" y="430" width="88.89" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EipcDict-16wzUtFNGiT-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-02-1174.svg" parent="1" vertex="1">
           <mxGeometry x="500" y="442.85" width="39.53" height="39.53" as="geometry" />
