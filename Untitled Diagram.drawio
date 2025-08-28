@@ -1423,10 +1423,10 @@
         <mxCell id="EipcDict-16wzUtFNGiT-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="420" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="afrPMJhsHV4Sk-7gWWWL-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_Domain_Services.svg;" parent="1" vertex="1">
+        <mxCell id="afrPMJhsHV4Sk-7gWWWL-1" value="Entra ID" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_Domain_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="200" y="299.84999999999997" width="60.29" height="60.29" as="geometry" />
         </mxCell>
-        <mxCell id="afrPMJhsHV4Sk-7gWWWL-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" parent="1" vertex="1">
+        <mxCell id="afrPMJhsHV4Sk-7gWWWL-2" value="Users" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" parent="1" vertex="1">
           <mxGeometry x="40" y="299.85" width="51.66" height="50.15" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" parent="1" vertex="1">
@@ -1438,7 +1438,7 @@
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
           <mxGeometry x="500" y="169.5" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="afrPMJhsHV4Sk-7gWWWL-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/AI_Studio.svg;" parent="1" vertex="1">
+        <mxCell id="afrPMJhsHV4Sk-7gWWWL-6" value="Azure AI Foundry" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/AI_Studio.svg;" parent="1" vertex="1">
           <mxGeometry x="369.44" y="305" width="47.06" height="50" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1448,13 +1448,16 @@
           <mxGeometry x="500" y="305" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EipcDict-16wzUtFNGiT-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png;" parent="1" vertex="1">
-          <mxGeometry x="350" y="430" width="88.89" height="50" as="geometry" />
+          <mxGeometry x="350" y="430" width="88.89" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EipcDict-16wzUtFNGiT-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-02-1174.svg" parent="1" vertex="1">
           <mxGeometry x="500" y="442.85" width="39.53" height="39.53" as="geometry" />
         </mxCell>
         <mxCell id="EipcDict-16wzUtFNGiT-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-09-1167.svg" parent="1" vertex="1">
           <mxGeometry x="565" y="445.23" width="34.77" height="34.77" as="geometry" />
+        </mxCell>
+        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.166;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="afrPMJhsHV4Sk-7gWWWL-2" target="afrPMJhsHV4Sk-7gWWWL-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
