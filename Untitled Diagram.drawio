@@ -1416,7 +1416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6krzMMYPTgJidZgZYOAT" name="AI">
-    <mxGraphModel dx="1141" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1462,8 +1462,8 @@
         <mxCell id="G2u-eZ7Ru_BPkOplVAF9-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="50" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
-          <mxGeometry x="660" y="421" width="51" height="68" as="geometry" />
+        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-3" value="PowerBI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="421" width="40.5" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
