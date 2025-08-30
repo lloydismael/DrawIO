@@ -1416,7 +1416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6krzMMYPTgJidZgZYOAT" name="AI">
-    <mxGraphModel dx="834" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1424,7 +1424,7 @@
           <mxGeometry x="470" y="400" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-1" value="Entra ID" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Entra_Domain_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="200" y="299.84999999999997" width="60.29" height="60.29" as="geometry" />
+          <mxGeometry x="210" y="299.85999999999996" width="60.29" height="60.29" as="geometry" />
         </mxCell>
         <mxCell id="afrPMJhsHV4Sk-7gWWWL-2" value="Users" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" parent="1" vertex="1">
           <mxGeometry x="40" y="299.85" width="51.66" height="50.15" as="geometry" />
@@ -1456,13 +1456,13 @@
         <mxCell id="EipcDict-16wzUtFNGiT-3" value="Sharepoint" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-09-1167.svg" parent="1" vertex="1">
           <mxGeometry x="575" y="425.23" width="49.77" height="49.77" as="geometry" />
         </mxCell>
-        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.166;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="afrPMJhsHV4Sk-7gWWWL-2" target="afrPMJhsHV4Sk-7gWWWL-1">
+        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.166;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="afrPMJhsHV4Sk-7gWWWL-2" target="afrPMJhsHV4Sk-7gWWWL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="190" width="50" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-3" value="PowerBI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
+        <mxCell id="G2u-eZ7Ru_BPkOplVAF9-3" value="PowerBI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" parent="1" vertex="1">
           <mxGeometry x="660" y="421" width="40.5" height="54" as="geometry" />
         </mxCell>
       </root>
