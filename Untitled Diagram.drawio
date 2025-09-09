@@ -1469,21 +1469,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JodQsUOt41e4LVoSpdqw" name="DMZ">
-    <mxGraphModel dx="1591" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="570" width="1440" height="1440" as="geometry" />
         </mxCell>
-        <mxCell id="LiQmW9HkiYLmAwHnnCOx-2" value="Hub Virtual Network" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1080" width="210" height="210" as="geometry" />
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-2" value="Hub Virtual Network" style="whiteSpace=wrap;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="900" width="490" height="760" as="geometry" />
         </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-4" value="Production Spoke Virtual Network&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="900" width="210" height="210" as="geometry" />
+          <mxGeometry x="2050" y="900" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-5" value="Non-Production Spoke Virtual Network" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="1280" width="210" height="210" as="geometry" />
+          <mxGeometry x="2050" y="1320" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="930" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="880" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="1824" y="833" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1010" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="1814" y="1230" width="56.00000000000001" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
