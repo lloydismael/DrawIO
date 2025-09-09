@@ -1469,10 +1469,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JodQsUOt41e4LVoSpdqw" name="DMZ">
-    <mxGraphModel dx="1273" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="570" width="1440" height="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-2" value="Hub Virtual Network" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1080" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-4" value="Production Spoke Virtual Network&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="900" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQmW9HkiYLmAwHnnCOx-5" value="Non-Production Spoke Virtual Network" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1280" width="210" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
