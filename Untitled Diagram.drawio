@@ -1469,7 +1469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JodQsUOt41e4LVoSpdqw" name="DMZ">
-    <mxGraphModel dx="1034" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6561" dy="4336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1477,10 +1477,10 @@
           <mxGeometry x="1920" y="1298" width="67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="570" width="1440" height="1440" as="geometry" />
+          <mxGeometry x="-310" y="-510" width="4070" height="4070" as="geometry" />
         </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-2" value="Hub Virtual Network" style="whiteSpace=wrap;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;strokeWidth=2;strokeColor=light-dark(#000000,#9999FF);" vertex="1" parent="1">
-          <mxGeometry x="1250" y="830" width="490" height="860" as="geometry" />
+          <mxGeometry x="820" y="830" width="490" height="860" as="geometry" />
         </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-4" value="Production Spoke Virtual Network&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;strokeWidth=2;strokeColor=light-dark(#000000,#6666FF);" vertex="1" parent="1">
           <mxGeometry x="1950" y="830" width="380" height="380" as="geometry" />
@@ -1488,20 +1488,11 @@
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-5" value="Non-Production Spoke Virtual Network" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;dashed=1;strokeColor=light-dark(#000000,#6666FF);strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1950" y="1310" width="380" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="LiQmW9HkiYLmAwHnnCOx-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="930" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1120" width="50" height="50" as="geometry" />
+          <mxGeometry x="1900" y="970" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LiQmW9HkiYLmAwHnnCOx-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1390" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LiQmW9HkiYLmAwHnnCOx-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="1824" y="833" width="56.00000000000001" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="LiQmW9HkiYLmAwHnnCOx-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1242" width="56.00000000000001" height="68" as="geometry" />
+          <mxGeometry x="1900" y="1450" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="N4VOhFQsncs7U-_Mn4ZT-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
           <mxGeometry x="1920" y="810" width="67" height="40" as="geometry" />
@@ -1509,17 +1500,29 @@
         <mxCell id="N4VOhFQsncs7U-_Mn4ZT-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
           <mxGeometry x="1920" y="1290" width="67" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1985" y="1345" width="310" height="310" as="geometry" />
         </mxCell>
         <mxCell id="N4VOhFQsncs7U-_Mn4ZT-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="1625" width="37" height="50" as="geometry" />
+          <mxGeometry x="1966" y="1625" width="37" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1987" y="860" width="310" height="310" as="geometry" />
         </mxCell>
         <mxCell id="N4VOhFQsncs7U-_Mn4ZT-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="1140" width="37" height="50" as="geometry" />
+          <mxGeometry x="1968" y="1140" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="N4VOhFQsncs7U-_Mn4ZT-10" target="LiQmW9HkiYLmAwHnnCOx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="N4VOhFQsncs7U-_Mn4ZT-11" target="LiQmW9HkiYLmAwHnnCOx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4VOhFQsncs7U-_Mn4ZT-11" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Connections.svg;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="970" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
