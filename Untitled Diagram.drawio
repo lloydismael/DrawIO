@@ -1666,7 +1666,7 @@
         <mxCell id="cuYp0CXdzbTxMAvmSKtJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuYp0CXdzbTxMAvmSKtJ-13" target="cuYp0CXdzbTxMAvmSKtJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cuYp0CXdzbTxMAvmSKtJ-13" value="Azure Subscription" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+        <mxCell id="cuYp0CXdzbTxMAvmSKtJ-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Azure Subscription&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
           <mxGeometry x="-2843.54" y="-4530" width="23.63" height="38.13" as="geometry" />
         </mxCell>
         <mxCell id="cuYp0CXdzbTxMAvmSKtJ-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
