@@ -776,7 +776,7 @@
         <mxCell id="Mxkk4m4wCJNBCT5FUtRA-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;" vertex="1" parent="Mxkk4m4wCJNBCT5FUtRA-25">
           <mxGeometry x="65" y="104" width="73" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="Mxkk4m4wCJNBCT5FUtRA-29" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;" vertex="1" parent="1">
+        <mxCell id="Mxkk4m4wCJNBCT5FUtRA-29" value="Public Internet" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;" vertex="1" parent="1">
           <mxGeometry x="886" y="757" width="75" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Mxkk4m4wCJNBCT5FUtRA-30" value="Azure" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
