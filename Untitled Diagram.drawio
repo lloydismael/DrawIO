@@ -1939,7 +1939,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bEzT_u4SwU_agmrjgcZA-37" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="Azure Environment" vertex="1">
-          <mxGeometry height="525" width="525" x="301" y="1628" as="geometry" />
+          <mxGeometry height="410" width="410" x="306" y="1835" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="Microsoft Environment" vertex="1">
           <mxGeometry height="132" width="132" x="321" y="547.06" as="geometry" />
@@ -2013,22 +2013,22 @@
           <mxGeometry height="60" width="60" x="174" y="1357.88" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="Non-Microsoft Domains" vertex="1">
-          <mxGeometry height="132" width="132" x="3" y="1905" as="geometry" />
+          <mxGeometry height="132" width="132" x="2" y="2325" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-33" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;labelBackgroundColor=none;" value="Students" vertex="1">
-          <mxGeometry height="60" width="60" x="39" y="1936" as="geometry" />
+          <mxGeometry height="60" width="60" x="38" y="2356" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-40" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="327" width="327" x="337" y="1670" as="geometry" />
+          <mxGeometry height="327" width="327" x="347.5" y="1870" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-38" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" value="NETI Subscription" vertex="1">
-          <mxGeometry height="40" width="24.79" x="426" y="1761" as="geometry" />
+          <mxGeometry height="40" width="24.79" x="431" y="1968" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-34" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" value="App Service" vertex="1">
-          <mxGeometry height="40" width="40" x="499" y="1739" as="geometry" />
+          <mxGeometry height="40" width="40" x="504" y="1946" as="geometry" />
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-35" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;strokeColor=default;verticalAlign=top;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;fillColor=default;" value="Storage Account" vertex="1">
-          <mxGeometry height="40" width="50" x="472" y="1896" as="geometry" />
+          <mxGeometry height="40" width="50" x="477" y="2103" as="geometry" />
         </mxCell>
         <mxCell id="aR02uNP2sgw6aWBYWAKA-12" parent="1" style="shape=mxgraph.sysml.x;" value="" vertex="1">
           <mxGeometry height="20" width="23" x="301" y="817" as="geometry" />
@@ -2048,6 +2048,9 @@
         </mxCell>
         <mxCell id="bEzT_u4SwU_agmrjgcZA-23" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;horizontal=1;labelPosition=center;" value="Trainers / Shared&amp;nbsp;" vertex="1">
           <mxGeometry height="50.78" width="50.78" x="417" y="1264" as="geometry" />
+        </mxCell>
+        <mxCell id="aR02uNP2sgw6aWBYWAKA-27" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" value="R-G" vertex="1">
+          <mxGeometry height="40" width="42.5" x="461.5" y="2042" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
