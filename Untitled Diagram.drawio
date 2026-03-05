@@ -2117,7 +2117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zc8P_3bcjO8KGQZVkAV0" name="Page-12">
-    <mxGraphModel dx="1289" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2169,7 +2169,7 @@
           <mxGeometry height="321" width="321" x="966.5" y="222" as="geometry" />
         </mxCell>
         <mxCell id="5_mun5GoOjw-_nMwDGYB-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" value="nprod-aks-cluster" vertex="1">
-          <mxGeometry height="33" width="37.4" x="503" y="317" as="geometry" />
+          <mxGeometry height="33" width="37.4" x="515" y="317" as="geometry" />
         </mxCell>
         <mxCell id="5_mun5GoOjw-_nMwDGYB-18" edge="1" parent="1" source="5_mun5GoOjw-_nMwDGYB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;" target="5_mun5GoOjw-_nMwDGYB-9">
           <mxGeometry relative="1" as="geometry">
@@ -2196,8 +2196,8 @@
         <mxCell id="5_mun5GoOjw-_nMwDGYB-32" edge="1" parent="1" source="5_mun5GoOjw-_nMwDGYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="5_mun5GoOjw-_nMwDGYB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="498" y="150" />
-              <mxPoint x="498" y="337" />
+              <mxPoint x="501" y="150" />
+              <mxPoint x="501" y="337" />
             </Array>
           </mxGeometry>
         </mxCell>
