@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.5" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6" pages="14">
   <diagram name="MIGRATION" id="iF6NioC-ejS35JDFOjd9">
     <mxGraphModel dx="2595" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2367,12 +2367,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Goe6Ma2y5qeQpaLSD-a3" name="SQL Migration">
-    <mxGraphModel dx="945" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L3ZPofkEEGr2eBlOBUGZ-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_SQL_VM.svg;" value="" vertex="1">
-          <mxGeometry height="60" width="64" x="373" y="250" as="geometry" />
+          <mxGeometry height="60" width="64" x="280" y="370" as="geometry" />
         </mxCell>
         <mxCell id="L3ZPofkEEGr2eBlOBUGZ-2" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Discs.svg;" value="" vertex="1">
           <mxGeometry height="42" width="50" x="500" y="380" as="geometry" />
@@ -2382,6 +2382,12 @@
         </mxCell>
         <mxCell id="L3ZPofkEEGr2eBlOBUGZ-4" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" value="" vertex="1">
           <mxGeometry height="50" width="41.17" x="580" y="376" as="geometry" />
+        </mxCell>
+        <mxCell id="mTu9XKHHzWp2sI3wQRjR-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="68" x="670" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mTu9XKHHzWp2sI3wQRjR-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;" value="" vertex="1">
+          <mxGeometry height="60" width="65" x="800" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
