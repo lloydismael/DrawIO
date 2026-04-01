@@ -2407,7 +2407,7 @@
           <mxGeometry height="60" width="60" x="920" y="706" as="geometry" />
         </mxCell>
         <mxCell id="4PifjUhqJvuJm2UBIdj6-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;rounded=1;shadow=0;glass=0;" value="Azure Environment" vertex="1">
-          <mxGeometry height="520" width="590" x="1890" y="-640" as="geometry" />
+          <mxGeometry height="520" width="590" x="2080" y="-680" as="geometry" />
         </mxCell>
         <mxCell id="qXQ0Jq0KUyNQIEQzbBls-1" parent="4PifjUhqJvuJm2UBIdj6-9" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="440" width="530" x="30" y="50" as="geometry" />
