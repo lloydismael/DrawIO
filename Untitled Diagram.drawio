@@ -2367,7 +2367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Goe6Ma2y5qeQpaLSD-a3" name="SQL Migration">
-    <mxGraphModel dx="1182" dy="1778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1076" dy="1795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2386,14 +2386,12 @@
         <mxCell id="mTu9XKHHzWp2sI3wQRjR-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;" value="" vertex="1">
           <mxGeometry height="60" width="65" x="540" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="4PifjUhqJvuJm2UBIdj6-1" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" value="MySQL DB" vertex="1">
-          <mxGeometry height="70" width="50" x="380" y="700" as="geometry" />
-        </mxCell>
         <mxCell id="4PifjUhqJvuJm2UBIdj6-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" value="" vertex="1">
           <mxGeometry height="64" width="48" x="548.5" y="207" as="geometry" />
         </mxCell>
-        <mxCell id="4PifjUhqJvuJm2UBIdj6-4" edge="1" parent="1" source="4PifjUhqJvuJm2UBIdj6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
+        <mxCell id="4PifjUhqJvuJm2UBIdj6-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="735" as="sourcePoint" />
             <mxPoint x="520" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2436,11 +2434,14 @@
         <mxCell id="qXQ0Jq0KUyNQIEQzbBls-2" parent="4PifjUhqJvuJm2UBIdj6-9" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" value="&lt;span data-teams=&quot;true&quot;&gt;D2as v5&lt;/span&gt;" vertex="1">
           <mxGeometry height="55.2" width="60" x="260.00000000000006" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="qXQ0Jq0KUyNQIEQzbBls-4" parent="4PifjUhqJvuJm2UBIdj6-9" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" value="mySQL" vertex="1">
-          <mxGeometry height="64" width="48" x="167.14999999999998" y="296" as="geometry" />
-        </mxCell>
         <mxCell id="qXQ0Jq0KUyNQIEQzbBls-5" parent="4PifjUhqJvuJm2UBIdj6-9" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application" value="ERP App" vertex="1">
           <mxGeometry height="62.2" width="91.47" x="340" y="299.8999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="r7xFOcJ4qsN6pB23hNCM-1" parent="4PifjUhqJvuJm2UBIdj6-9" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="" vertex="1">
+          <mxGeometry height="64" width="48" x="167.14" y="298.1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7xFOcJ4qsN6pB23hNCM-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" value="Microsoft SQL" vertex="1">
+          <mxGeometry height="75" width="57" x="375" y="697.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
