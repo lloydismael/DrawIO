@@ -2757,7 +2757,7 @@
         <mxCell id="6muuRhylu3aWtVbhiWrp-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" value="DevOps" vertex="1">
           <mxGeometry height="64" width="64" x="922" y="565.5" as="geometry" />
         </mxCell>
-        <mxCell id="6muuRhylu3aWtVbhiWrp-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" value="" vertex="1">
+        <mxCell id="6muuRhylu3aWtVbhiWrp-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" value="Service Plan" vertex="1">
           <mxGeometry height="64" width="64" x="395" y="596" as="geometry" />
         </mxCell>
         <mxCell id="6muuRhylu3aWtVbhiWrp-5" edge="1" parent="1" source="Kj4hqEisL9I0e1VGdvhk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="Kj4hqEisL9I0e1VGdvhk-16">
