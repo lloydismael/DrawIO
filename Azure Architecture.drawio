@@ -1941,8 +1941,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="S_QAEAX-B4XTYOAjF5AX" name="NETI">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+  <diagram id="S_QAEAX-B4XTYOAjF5AX" name="WebForms">
+    <mxGraphModel dx="1202" dy="416" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2640,7 +2640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uWoCi43PSp_3dAcRxIsO" name="WebApp">
-    <mxGraphModel dx="1703" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2751,7 +2751,7 @@
           <mxGeometry height="100" width="100" x="391" y="973.02" as="geometry" />
         </mxCell>
         <mxCell id="Kj4hqEisL9I0e1VGdvhk-29" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" value="GitHub" vertex="1">
-          <mxGeometry height="75" width="75" x="877" y="561.97" as="geometry" />
+          <mxGeometry height="70" width="70" x="842" y="562" as="geometry" />
         </mxCell>
         <mxCell id="Kj4hqEisL9I0e1VGdvhk-30" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;" value="Internet" vertex="1">
           <mxGeometry height="84.79" width="97.18" x="650" y="980.62" as="geometry" />
@@ -2769,6 +2769,9 @@
               <mxPoint x="360" y="601" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6muuRhylu3aWtVbhiWrp-1" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" value="DevOps" vertex="1">
+          <mxGeometry height="64" width="64" x="922" y="565.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
