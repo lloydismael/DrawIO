@@ -2640,7 +2640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uWoCi43PSp_3dAcRxIsO" name="WebApp">
-    <mxGraphModel dx="1278" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1681" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2705,7 +2705,7 @@
         <mxCell id="Kj4hqEisL9I0e1VGdvhk-15" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" value="App Service" vertex="1">
           <mxGeometry height="68" width="68" x="391" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="Kj4hqEisL9I0e1VGdvhk-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="PostgreDB" vertex="1">
+        <mxCell id="Kj4hqEisL9I0e1VGdvhk-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="Database" vertex="1">
           <mxGeometry height="61" width="45.75" x="260" y="590" as="geometry" />
         </mxCell>
         <mxCell id="Kj4hqEisL9I0e1VGdvhk-17" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" value="DNS" vertex="1">
