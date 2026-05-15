@@ -2640,7 +2640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uWoCi43PSp_3dAcRxIsO" name="WebApp">
-    <mxGraphModel dx="2163" dy="1252" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2956" dy="1480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2771,8 +2771,8 @@
         <mxCell id="6muuRhylu3aWtVbhiWrp-8" edge="1" parent="1" source="Kj4hqEisL9I0e1VGdvhk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.539;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="Kj4hqEisL9I0e1VGdvhk-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="625" />
-              <mxPoint x="500" y="741" />
+              <mxPoint x="486" y="625" />
+              <mxPoint x="486" y="741" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2781,6 +2781,12 @@
         </mxCell>
         <mxCell id="VHZlLFGx1CC5hx9MglHS-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" value="DNS Provider" vertex="1">
           <mxGeometry height="70" width="70" x="878.09" y="760.37" as="geometry" />
+        </mxCell>
+        <mxCell id="VHZlLFGx1CC5hx9MglHS-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" value="User" vertex="1">
+          <mxGeometry height="100" width="100" x="-285" y="1811" as="geometry" />
+        </mxCell>
+        <mxCell id="VHZlLFGx1CC5hx9MglHS-4" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.workstation;" value="" vertex="1">
+          <mxGeometry height="83" width="104" x="-86" y="1811" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
