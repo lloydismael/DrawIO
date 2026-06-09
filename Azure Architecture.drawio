@@ -157,9 +157,6 @@
         <mxCell id="_Alo0_WOTKEbxmhzz9Px-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
           <mxGeometry height="337" width="260" x="277" y="1202" as="geometry" />
         </mxCell>
-        <mxCell id="_Alo0_WOTKEbxmhzz9Px-5" parent="_Alo0_WOTKEbxmhzz9Px-1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;fillColor=#DA4026;" value="" vertex="1">
-          <mxGeometry height="43" width="47" x="106.5" y="102" as="geometry" />
-        </mxCell>
         <mxCell id="_Alo0_WOTKEbxmhzz9Px-12" edge="1" parent="_Alo0_WOTKEbxmhzz9Px-1" source="_Alo0_WOTKEbxmhzz9Px-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="103" as="targetPoint" />
@@ -681,6 +678,9 @@
         </mxCell>
         <mxCell id="3tpbwonrtqb-6n-nmGgO-1" edge="1" parent="1" source="HVtNIl7XHb3js5Q0pZnN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="HVtNIl7XHb3js5Q0pZnN-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Alo0_WOTKEbxmhzz9Px-5" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;fillColor=#DA4026;" value="" vertex="1">
+          <mxGeometry height="43" width="47" x="296" y="1036" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
