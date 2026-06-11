@@ -458,7 +458,7 @@
           <mxGeometry height="57" width="78.08" x="1264" y="3750" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-26" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" value="Intune" vertex="1">
-          <mxGeometry height="47" width="51.55" x="1045" y="3736" as="geometry" />
+          <mxGeometry height="47" width="51.55" x="949" y="3616" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-49" edge="1" parent="1" source="whD9whGcHAKGSQgbPbLZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
