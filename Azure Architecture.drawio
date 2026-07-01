@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" pages="17">
   <diagram name="MIGRATION" id="iF6NioC-ejS35JDFOjd9">
-    <mxGraphModel dx="4576" dy="2313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5856" dy="2713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,7 +458,7 @@
           <mxGeometry height="57" width="78.08" x="952" y="3838" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-26" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Intune.svg;" value="Intune" vertex="1">
-          <mxGeometry height="47" width="51.55" x="949" y="3616" as="geometry" />
+          <mxGeometry height="47" width="51.55" x="1002" y="3623" as="geometry" />
         </mxCell>
         <mxCell id="whD9whGcHAKGSQgbPbLZ-49" edge="1" parent="1" source="whD9whGcHAKGSQgbPbLZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
