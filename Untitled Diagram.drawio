@@ -2657,7 +2657,10 @@
           <mxGeometry height="67" width="67" x="560" y="-181" as="geometry" />
         </mxCell>
         <mxCell id="LJRL6jIRfPa-aK1wCdey-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" value="Resource Group" vertex="1">
-          <mxGeometry height="61" width="64.81" x="-862" y="-519" as="geometry" />
+          <mxGeometry height="61" width="64.81" x="-861" y="-536" as="geometry" />
+        </mxCell>
+        <mxCell id="LJRL6jIRfPa-aK1wCdey-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="746" width="762" x="-836" y="-507" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
