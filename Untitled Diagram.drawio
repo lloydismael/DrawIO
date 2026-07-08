@@ -2699,7 +2699,7 @@
           <mxGeometry height="92.5" width="92.5" x="-274.51" y="-111.5" as="geometry" />
         </mxCell>
         <mxCell id="7obmCdD_9tdfPrvLEj3s-14" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/API_Connections.svg;" value="Project Endpoint" vertex="1">
-          <mxGeometry height="38" width="57.02" x="-329.03" y="74.5" as="geometry" />
+          <mxGeometry height="38" width="57.02" x="-329.03" y="84" as="geometry" />
         </mxCell>
         <mxCell id="7obmCdD_9tdfPrvLEj3s-21" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;IDE Environment&lt;/font&gt;" vertex="1">
           <mxGeometry height="950" width="667" x="210" y="-652" as="geometry" />
